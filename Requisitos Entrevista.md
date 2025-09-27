@@ -15,28 +15,29 @@ Este documento contém os requisitos levantados a partir da entrevista realizada
 - **RF06**: O sistema deve permitir que o paciente receba confirmações de consulta.  
 
 ### Prontuários e Documentação Clínica
-- **RF07**: O sistema deve permitir a criação e atualização de prontuários de pacientes.  
-- **RF08**: O sistema deve gerar automaticamente um prontuário após a sessão, com resumo breve.  
-- **RF09**: O sistema deve permitir registro documental da evolução do paciente.  
-- **RF10**: O sistema deve permitir a utilização de documentos/anamneses padronizadas (primeira consulta, 6 meses, 12 meses e encerramento).  
-- **RF11**: O sistema deve permitir o armazenamento de anotações, testes psicológicos e outros documentos do paciente.  
+- **RF07**: O sistema deve permitir a criação e atualização de prontuários de pacientes e psicologos.
+- **RF08**: O sistema deve gerar automaticamente um prontuário para preenchimento do profissional apos a consilta.
+- **RF09**: O sistema deve analisar a atualização de historico e gerar uma analise das palavras e ou assuntos mais citados pelo paciente.
+- **RF10**: O sistema deve permitir registro documental da evolução do paciente.  
+- **RF11**: O sistema deve permitir a utilização de documentos/anamneses padronizadas (primeira consulta, 6 meses, 12 meses e encerramento).  
+- **RF12**: O sistema deve permitir o armazenamento de anotações, testes psicológicos e outros documentos do paciente.  
 
 ### Controle Financeiro
-- **RF12**: O sistema deve permitir o registro de pagamentos recebidos.  
-- **RF13**: O sistema deve permitir geração de relatórios financeiros (lucros, gastos, crescimento mensal).  
-- **RF14**: O sistema deve permitir o envio de links de cobrança ou documentos de pagamento (recibos, notas fiscais) para pacientes.  
+- **RF13**: O sistema deve permitir o registro de pagamentos recebidos.  
+- **RF14**: O sistema deve permitir geração de relatórios financeiros (lucros, gastos, crescimento mensal).  
+- **RF15**: O sistema deve permitir o envio de links de cobrança ou documentos de pagamento (recibos, notas fiscais) para pacientes.  
 
 ### Teleatendimento
-- **RF15**: O sistema deve permitir o registro de atendimentos online (ex.: via Google Meet ou Zoom).  
-- **RF16**: O sistema deve registrar o consentimento do paciente para atendimentos virtuais.  
+- **RF16**: O sistema deve permitir o registro de atendimentos online (ex.: via Google Meet ou Zoom).  
+- **RF17**: O sistema deve registrar o consentimento do paciente para atendimentos virtuais.  
 
 ### Privacidade e LGPD
-- **RF17**: O sistema deve armazenar os dados de pacientes por pelo menos 5 anos.  
-- **RF18**: O sistema deve permitir armazenamento permanente de alguns documentos específicos.  
-- **RF19**: O sistema deve garantir mecanismos para exportar os dados dos pacientes quando houver desligamento da clínica.  
+- **RF18**: O sistema deve armazenar os dados de pacientes por pelo menos 5 anos.  
+- **RF19**: O sistema deve permitir armazenamento permanente de alguns documentos específicos.  
+- **RF20**: O sistema deve garantir mecanismos para exportar os dados dos pacientes quando houver desligamento da clínica.  
 
 ### Gestão Clínica
-- **RF20**: O sistema deve emitir lembretes para os profissionais da clínica sobre documentos de regularidade junto ao conselho.  
+- **RF21**: O sistema deve emitir lembretes para os profissionais da clínica sobre documentos de regularidade junto ao conselho.  
 
 ---
 
@@ -58,6 +59,6 @@ Este documento contém os requisitos levantados a partir da entrevista realizada
 - **RNF09**: O sistema deve permitir integração futura com múltiplos dispositivos.  
 
 ### Desempenho
-- **RNF10**: O sistema deve gerar prontuários automaticamente em tempo real após as consultas.  
+- **RNF10**: O sistema deve fazer uma analise comparativa automática imediata e entregar em tempo real para a disponibilidade de analise.  
 
 ---
