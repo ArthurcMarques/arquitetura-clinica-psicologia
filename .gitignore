@@ -1,0 +1,13 @@
+# Arquivo de anotações pessoais
+comandos_git.txt
+
+# Arquivos temporários do Word
+~$*.docx
+~$*.doc
+
+# Logs
+*.log
+
+# Arquivos de backup
+*.bak
+*.tmp
