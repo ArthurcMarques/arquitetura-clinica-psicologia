@@ -1,4 +1,7 @@
 # 🧩 Arquitetura Clínica de Psicologia
+- **Disciplina:** Arquitetura e Desenho de Software (CIC1060)  
+- **Professora:** Adriana Silveira de Souza 
+- **Instituição:** PUC GO 
 Documentação do projeto da disciplina **Arquitetura e Desenho de Software (CIC1060)**.  
 Este repositório concentra todos os documentos, modelos e artefatos desenvolvidos pelo grupo ao longo do semestre.
 
@@ -6,13 +9,6 @@ Este repositório concentra todos os documentos, modelos e artefatos desenvolvid
 
 ## 🎯 Objetivo
 Elaborar a documentação e os modelos arquiteturais de um **sistema para gestão de clínica de psicologia**, contemplando requisitos funcionais e não funcionais, prototipação e projeto de software.
-
----
-
-## 📚 Professora
-- **Disciplina:** Arquitetura e Desenho de Software (CIC1060)  
-- **Professora:** Adriana Silveira de Souza 
-- **Instituição:** PUC GO 
 
 ---
 
