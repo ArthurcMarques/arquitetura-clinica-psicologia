@@ -21,7 +21,13 @@ Este documento contém os requisitos levantados a partir da **LGPD**, **Resoluç
 
 ### Administração e Relatórios
 - **RF08**: O sistema deve permitir o cadastro de usuários com diferentes perfis (Administrador, Psicólogo, Secretário(a)).  
-- **RF09**: O sistema deve gerar relatórios estatísticos e anonimizados sobre os pacientes (ex.: faixa etária).  
+- **RF09**: O sistema deve gerar relatórios estatísticos e anonimizados sobre os pacientes (ex.: faixa etária).
+
+### Conformidade com exigencias legais
+- **RF10**: O sistema deve permitir anexar e armazenar documentos de registro da clínica/consultório, como CNPJ, alvarás, termo de responsabilidade técnica e certidões do CRP.
+- **RF11**: O sistema deve permitir cadastrar a modalidade de atuação (Pessoa Jurídica ou Consultório Individual), vinculando a documentação obrigatória de cada caso.
+- **RF12**: O sistema deve permitir o cadastro e a gestão da documentação do psicólogo atuante (registro no CRP, certidões de regularidade, termo de responsabilidade técnica, diploma).
+- **RF13**: O sistema deve emitir alertas sobre vencimento ou renovação de documentos obrigatórios do profissional (ex.: anuidade do CRP, validade de alvará).
 
 ---
 
@@ -47,4 +53,6 @@ Este documento contém os requisitos levantados a partir da **LGPD**, **Resoluç
 - **RNF11**: O sistema deve executar consultas, registros e salvamentos em tempo hábil.  
 
 ### Conformidade Legal
-- **RNF12**: O sistema deve garantir a guarda dos prontuários por um período mínimo de 5 anos.  
+- **RNF12**: O sistema deve garantir a guarda dos prontuários por um período mínimo de 5 anos.
+- **RNF13**: O sistema deve contemplar a documentação exigida pelo CRP e órgãos municipais/estaduais para clínicas e consultórios de Psicologia.
+- **RNF14**: O sistema deve garantir a confidencialidade e integridade da documentação profissional anexada, aplicando as mesmas normas de segurança dos dados clínicos.
