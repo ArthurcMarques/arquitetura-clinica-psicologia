@@ -23,6 +23,12 @@ Elaborar a documentação e os modelos arquiteturais de um **sistema para gestã
 - [**Síntese da primeira entrevista**](./Sintese_Entrevista_1.md)  
   Resumo da entrevista realizada com a profissional **Adrillenne Pinheiro Silva Rezende**.
 
+- [**Síntese da Análise dos Sistemas Análogos**](./Sintese_Sistemas_Analogos.md)  
+  Resultado da análise de outros sistemas.
+
+- [**Síntese da Análise das Normas e Padrões**](./Sintese_Normas_e_Padroes.md)  
+  Resultado da análise das normas e padrões da área do sistema.
+
 - [**Requisitos Entrevista**](./Requisitos_Entrevista.md)  
   Documento de requisitos levantados a partir de entrevistas realizadas com profissionais da área.
 
