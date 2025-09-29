@@ -29,6 +29,9 @@ Elaborar a documentação e os modelos arquiteturais de um **sistema para gestã
 - [**Síntese da Análise das Normas e Padrões**](./Sintese_Normas_e_Padroes.md)  
   Resultado da análise das normas e padrões da área do sistema.
 
+- [**Requisitos Gerais**](./Requisitos_Gerais.md)  
+  Documento unificando os requisitos obtidos de cada uma das fontes.
+
 - [**Requisitos Entrevista**](./Requisitos_Entrevista.md)  
   Documento de requisitos levantados a partir de entrevistas realizadas com profissionais da área.
 
@@ -37,5 +40,8 @@ Elaborar a documentação e os modelos arquiteturais de um **sistema para gestã
 
 - [**Requisitos Normas e Leis**](./Requisitos_Normas_Leis.md)  
   Documento de requisitos levantados a partir da **LGPD**, **CFP** e **ISO 25010**.
+
+- [**Matriz de Rastreabilidade**](./Matriz_de_Rastreabilidade.md)  
+  Matriz para rastrear a origem de cada requisito.
 
 ---
