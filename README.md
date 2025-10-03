@@ -20,6 +20,9 @@ Elaborar a documentação e os modelos arquiteturais de um **sistema para gestã
 
 ## 📂 Estrutura do Repositório
 
+- [**Listas de Necessidades**](./Lista_Necessidades.md)  
+  Lista das necessidades identificadas.
+
 - [**Síntese da primeira entrevista**](./Sintese_Entrevista_1.md)  
   Resumo da entrevista realizada com a profissional **Adrillenne Pinheiro Silva Rezende**.
 
