@@ -25,7 +25,7 @@
 - **RF16**: O sistema deve permitir registro documental da evolução das sessões.  
 - **RF17**: O prontuário deve permitir anexar arquivos (PDF, imagens, testes).  
 - **RF18**: O sistema deve permitir utilização de templates padronizados (ex.: anamnese, acompanhamento semestral).  
-- **RF19**: O sistema deve gerar automaticamente prontuário após consulta.  
+- **RF19**: O sistema deve gerar automaticamente modelo para prontuário após consulta (Deve ser preenchido pelo Psicólogo anteriormente).  
 - **RF20**: O sistema deve analisar evolução e gerar estatísticas de termos mais citados.  
 - **RF21**: O sistema deve permitir diferenciar atendimento presencial e online.  
 
