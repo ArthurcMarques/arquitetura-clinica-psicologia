@@ -18,6 +18,17 @@ Elaborar a documentação e os modelos arquiteturais de um **sistema para gestã
 
 ---
 
+## 👩‍💻 Steakholders 
+  Clínica de psicologia
+    - Psicólogo
+    - Proprietário da Clínica
+    - Auxiliar administrativo / Secretário
+    - Auxiliar financeiro
+    - Paciente
+
+    
+---
+
 ## 📆 Cronograma (Disciplina)
 - **17/09 – 11/10:** Estudo do domínio e levantamento de requisitos  
 
