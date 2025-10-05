@@ -8,13 +8,18 @@ Este repositório concentra todos os documentos, modelos e artefatos desenvolvid
 
 ---
 
-## 🎯 Objetivo
+## 🎯 Objetivo Geral
 Elaborar a documentação e os modelos arquiteturais de um **sistema para gestão de clínica de psicologia**, contemplando requisitos funcionais e não funcionais, prototipação e projeto de software.
+  - Cadastro simplificado de profissional e paciente.
+  - Permanência e análise computacional do prontuário do paciente.
+  - Controle automático de agenda, e lembrete.
+  - Análise, suporte e controle financeiro.
+  - Interface de usuário para agendamento, pagamento e mensagens de acompanhamento.
 
 ---
 
 ## 📆 Cronograma (Disciplina)
-- **17/09 – 04/10:** Estudo do domínio e levantamento de requisitos  
+- **17/09 – 11/10:** Estudo do domínio e levantamento de requisitos  
 
 ---
 
