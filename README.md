@@ -19,12 +19,12 @@ Elaborar a documentação e os modelos arquiteturais de um **sistema para gestã
 ---
 
 ## 👩‍💻 Steakholders 
-  Clínica de psicologia
-    - Psicólogo
-    - Proprietário da Clínica
-    - Auxiliar administrativo / Secretário
-    - Auxiliar financeiro
-    - Paciente
+Clínica de psicologia
+  - Psicólogo
+  - Proprietário da Clínica
+  - Auxiliar administrativo / Secretário
+  - Auxiliar financeiro
+  - Paciente
 
     
 ---
