@@ -66,4 +66,3 @@
 - **Sistemas** → Requisitos derivados da análise de sistemas análogos (PsicoManager, Sintropia).  
 - **Normas** → Requisitos derivados de LGPD, CFP e ISO 25010.  
 - **Entrevista** → Requisitos levantados em entrevistas com profissionais da área.  
-a
