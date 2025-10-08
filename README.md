@@ -52,7 +52,7 @@ Principais funcionalidades esperadas:
 - [**Requisitos Entrevista**](./Requisitos_Entrevista.md)  
 - [**Requisitos Sistemas**](./Requisitos_Sistemas.md)  
 - [**Requisitos Normas e Leis**](./Requisitos_Normas_Leis.md)  
-- [**Requisitos Unificados**](./Requisitos_Unificados.md)  
+- [**Requisitos Unificados**](./Requisitos_Gerais.md)  
 - [**Matriz de Rastreabilidade (1ª versão)**](./Matriz_de_Rastreabilidade.md)  
 
 📌 **Resultado:** Conjunto consolidado de requisitos funcionais e não funcionais, atendendo à LGPD, CFP e ISO/IEC 25010.
