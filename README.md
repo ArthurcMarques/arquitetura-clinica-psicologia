@@ -36,7 +36,7 @@ Principais funcionalidades esperadas:
 |-------|----------|------------------------|--------|
 | **1ª Etapa – Levantamento de Requisitos** | 17/09 → 11/10 | Entrevistas, análises de sistemas, normas, e consolidação de requisitos | ✅ Concluída |
 | **2ª Etapa – Modelagem e Especificação de Requisitos** | 12/10 → 24/10 | Diagramas, Casos de Uso, Documento de Visão, Especificações | 🔄 Em andamento |
-| **3ª Etapa – Definição da Arquitetura** | 20/10 → 22/11 | Documento de Arquitetura e Diagramas de Componentes | ⏳ A iniciar |
+| **3ª Etapa – Definição da Arquitetura** |  | Documento de Arquitetura e Diagramas de Componentes | ⏳ A iniciar |
 
 ---
 
