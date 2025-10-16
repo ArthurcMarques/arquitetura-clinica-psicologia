@@ -45,15 +45,15 @@ Principais funcionalidades esperadas:
 ### 🧩 **1ª Etapa – Levantamento de Requisitos**
 **Objetivo:** identificar e consolidar as necessidades do sistema.
 
-- [**Lista de Necessidades**](./Lista_Necessidades.md)  
-- [**Síntese da Primeira Entrevista**](./Sintese_Entrevista_1.md)  
-- [**Síntese dos Sistemas Análogos**](./Sintese_Sistemas_Analogos.md)  
-- [**Síntese das Normas e Padrões**](./Sintese_Normas_e_Padroes.md)  
-- [**Requisitos Entrevista**](./Requisitos_Entrevista.md)  
-- [**Requisitos Sistemas**](./Requisitos_Sistemas.md)  
-- [**Requisitos Normas e Leis**](./Requisitos_Normas_Leis.md)  
-- [**Requisitos Unificados**](./Requisitos_Gerais.md)  
-- [**Matriz de Rastreabilidade (1ª versão)**](./Matriz_de_Rastreabilidade.md)  
+- [**Lista de Necessidades**](./Etapa_1/Lista_Necessidades.md)  
+- [**Síntese da Primeira Entrevista**](./Etapa_1/Sintese_Entrevista_1.md)  
+- [**Síntese dos Sistemas Análogos**](./Etapa_1/Sintese_Sistemas_Analogos.md)  
+- [**Síntese das Normas e Padrões**](./Etapa_1/Sintese_Normas_e_Padroes.md)  
+- [**Requisitos Entrevista**](./Etapa_1/Requisitos_Entrevista.md)  
+- [**Requisitos Sistemas**](./Etapa_1/Requisitos_Sistemas.md)  
+- [**Requisitos Normas e Leis**](./Etapa_1/Requisitos_Normas_Leis.md)  
+- [**Requisitos Unificados**](./Etapa_1/Requisitos_Gerais.md)  
+- [**Matriz de Rastreabilidade (1ª versão)**](./Etapa_1/Matriz_de_Rastreabilidade.md)  
 
 📌 **Resultado:** Conjunto consolidado de requisitos funcionais e não funcionais, atendendo à LGPD, CFP e ISO/IEC 25010.
 
@@ -64,7 +64,7 @@ Principais funcionalidades esperadas:
 
 **Documentos obrigatórios:**
 - 🧾 [**Diagrama de Casos de Uso**](./docs/Diagrama_Casos_de_Uso.png)  
-- 📘 [**Casos de Uso – Descrição Completa**](./docs/Casos_de_Uso_Completo.md)  
+- 📘 [**Casos de Uso – Descrição Completa**](./Etapa_2/Casos_de_Uso_Descricao_Completa.md)  
 - 📊 [**Matriz de Rastreabilidade Atualizada (Horizontal e Vertical)**](./docs/Matriz_Rastreabilidade_Atualizada.md)  
 - 🪞 [**Documento de Visão**](./docs/Documento_Visao.md)  
 - 🧩 [**Especificação Suplementar**](./docs/Especificacao_Suplementar.md)  
