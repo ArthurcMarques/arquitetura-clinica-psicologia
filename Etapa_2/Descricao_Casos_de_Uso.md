@@ -25,8 +25,8 @@
 - **UC-05** Agendar Consulta  
   - *extend* → **UC-05a** Gerir Lista de Espera  
   - *extend* → **UC-09** Processar Pagamento e Emitir Recibo *(quando política exigir pré‑pagamento)*  
-- **UC-05a** Gerir Lista de Espera *(novo)*  
-- **UC-05b** Confirmar Presença *(novo)*  
+- **UC-05a** Gerir Lista de Espera  
+- **UC-05b** Confirmar Presença 
 - **UC-06** Reagendar/Cancelar Consulta  
   - *extend* → **UC-07** Enviar Comunicações Transacionais *(notificações de reagendamento/cancelamento)*  
   - **Nota:** Pode **disparar** regras para **UC-18** Processar Reembolso (quando aplicável)  
@@ -48,9 +48,9 @@
   - *extend* → **UC-11** Solicitar Portabilidade/Relatório de Dados Pessoais  
 - **UC-15** Gerenciar Convênios/Planos  
   - *extend* → **UC-09** Processar Pagamento Particular *(quando elegibilidade for negada e paciente optar por particular)*  
-- **UC-16** Sincronizar Calendário Externo *(novo)*  
-- **UC-17** Assinar Digitalmente Documento Clínico *(novo)*  
-- **UC-18** Processar Reembolso *(novo)*
+- **UC-16** Sincronizar Calendário Externo   
+- **UC-17** Assinar Digitalmente Documento Clínico   
+- **UC-18** Processar Reembolso 
 
 ---
 
@@ -147,7 +147,7 @@
 
 ---
 
-## **UC-05a – Gerir Lista de Espera** *(novo)*
+## **UC-05a – Gerir Lista de Espera** 
 **Atores:** Paciente, Auxiliar Administrativo  
 **Objetivo:** Cadastrar preferências e posição em fila; notificar e reservar janela quando surgir vaga.  
 **Prioridade:** B  
@@ -166,7 +166,7 @@
 
 ---
 
-## **UC-05b – Confirmar Presença** *(novo)*
+## **UC-05b – Confirmar Presença** 
 **Atores:** Paciente  
 **Objetivo:** Confirmar/declinar presença da consulta previamente agendada.  
 **Prioridade:** B  
@@ -349,7 +349,7 @@
 
 ---
 
-## **UC-16 – Sincronizar Calendário Externo** *(novo)*
+## **UC-16 – Sincronizar Calendário Externo** 
 **Atores:** Profissional, Sistema  
 **Objetivo:** Integrar agenda com Google/Outlook/CalDAV.  
 **Prioridade:** B  
@@ -362,7 +362,7 @@
 
 ---
 
-## **UC-17 – Assinar Digitalmente Documento Clínico** *(novo)*
+## **UC-17 – Assinar Digitalmente Documento Clínico** 
 **Atores:** Profissional  
 **Objetivo:** Assinar evoluções/relatórios conforme política e requisitos legais.  
 **Prioridade:** B  
@@ -376,7 +376,7 @@
 
 ---
 
-## **UC-18 – Processar Reembolso** *(novo)*
+## **UC-18 – Processar Reembolso** 
 **Atores:** Paciente, Financeiro, Gateway  
 **Objetivo:** Reembolsar valores conforme política (cancelamento, no‑show, erro).  
 **Prioridade:** B  
