@@ -64,11 +64,11 @@ Principais funcionalidades esperadas:
 
 **Documentos obrigatórios:**
 - 🧾 [**Diagrama de Casos de Uso**](./docs/Diagrama_Casos_de_Uso.png)  
-- 📘 [**Casos de Uso – Descrição Completa**](./Etapa_2/Casos_de_Uso_Descricao_Completa.md)  
+- 📘 [**Casos de Uso – Descrição Completa**](./Etapa_2/Descricao_Casos_de_Uso.md)  
 - 📊 [**Matriz de Rastreabilidade Atualizada (Horizontal e Vertical)**](./docs/Matriz_Rastreabilidade_Atualizada.md)  
 - 🪞 [**Documento de Visão**](./docs/Documento_Visao.md)  
 - 🧩 [**Especificação Suplementar**](./docs/Especificacao_Suplementar.md)  
-- 🪟 [**Protótipos das Principais Telas**](./docs/Prototipos_Telas/)  
+- 🪟 [**Protótipos das Principais Telas**](./docs/Prototipos_Telas/) 
 - 🧭 [**Especificação de Requisitos – EOR / IEEE 830**](./docs/EOR_Especificacao_de_Requisitos.md)  
 
 📌 **Objetivo:** transformar os requisitos levantados em artefatos formais e visuais que orientem o projeto arquitetural.
