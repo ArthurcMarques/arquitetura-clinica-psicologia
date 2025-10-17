@@ -75,4 +75,4 @@ Principais funcionalidades esperadas:
 
 ---
 
-📅 **Última atualização:** 07 de outubro de 2025
+📅 **Última atualização:** 16 de outubro de 2025
